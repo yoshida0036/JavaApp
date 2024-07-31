@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FruitsPair" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OrderSystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/math" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/refactoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
   </component>
 </project>
